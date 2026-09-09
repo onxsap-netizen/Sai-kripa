@@ -1,0 +1,21 @@
+{
+  "name": "Sai Kripa — event and field operations",
+  "short_name": "Sai Kripa",
+  "description": "Manpower, printing, promotions, event supplies, F&B, logistics and management support in Bengaluru.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#06182C",
+  "theme_color": "#06182C",
+  "lang": "en-IN",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "images/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "WhatsApp Pradeep", "url": "https://wa.me/917406726043" },
+    { "name": "Call Shreyas", "url": "tel:+916363388560" }
+  ]
+}
